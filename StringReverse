@@ -13,9 +13,6 @@ public class Reverse_string {
      public static void main(String[] args) {
 		
     	 System.out.println(Reverse_string.stringReverse("Banu"));
-	  System.out.println(Reverse_string.stringReverse("Ramesh"));
-	 
-    	 
-    	 
+	      	 
 	}
 }
