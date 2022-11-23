@@ -1,5 +1,3 @@
-package learning;
-
 public class Reverse_string {
 	
 	public static String stringReverse(String str)
