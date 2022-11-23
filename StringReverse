@@ -1,0 +1,19 @@
+package learning;
+
+public class Reverse_string {
+	
+	public static String stringReverse(String str)
+	{
+		StringBuilder sb = new StringBuilder(str);
+		sb.reverse();
+		
+		return sb.toString();
+	}
+
+     public static void main(String[] args) {
+		
+    	 System.out.println(Reverse_string.stringReverse("Banu"));
+    	 
+    	 
+	}
+}
